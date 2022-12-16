@@ -66,11 +66,17 @@ body {
 }
 
 
+.SECplus-header {
+  border-bottom: 1px solid #000000;
+}
 
+.InfoSys-header {
+  border-bottom: 1px solid #000000;
+}
 
-
-
-
+.SCCCC-header {
+  border-bottom: 1px solid #000000;
+}
 
 
 
