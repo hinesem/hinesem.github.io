@@ -14,22 +14,63 @@ body {
   border-bottom: 1px solid #000000;
 }
 
+
 .intro-header {
   border-top: 2px solid #000000;
 }
 
+
 .PositionUSbank-header {
-  border-bottom: 1px solid #000000
+  border-bottom: 1px solid #000000;
+}
+
+.ProExp-header {
+  text-align: center;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
 }
 
 .PositionBSB-header {
-  border-bottom: 1px solid #000000
+  border-bottom: 1px solid #000000;
 }
+
 
 .PositionPrime-header {
-  border-bottom: 1px solid #000000
+  border-bottom: 1px solid #000000;
 }
 
+
 .PositionSyand-header {
-  border-bottom: 1px solid #000000
+  border-bottom: 1px solid #000000;
 }
+
+
+.PositionMSI-header {
+  border-bottom: 1px solid #000000;
+}
+
+
+.PositionCAV-header {
+  border-bottom: 1px solid #000000;
+}
+
+
+.Education-header {
+  text-align: center;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+}
+
+.CivEd-header {
+  border-bottom: 1px solid #000000;
+}
+
+
+
+
+
+
+
+
+
+
