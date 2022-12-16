@@ -6,14 +6,30 @@ body {
 }
 
 .name-header {
-  text-align: center;
-  
+  text-align: center; 
 }
 
-
+.contactInfo-header {
+  text-align: center;
+  border-bottom: 1px solid #000000;
+}
 
 .intro-header {
-  border-top: 7xp solid #000000;
+  border-top: 2px solid #000000;
 }
 
+.PositionUSbank-header {
+  border-bottom: 1px solid #000000
+}
 
+.PositionBSB-header {
+  border-bottom: 1px solid #000000
+}
+
+.PositionPrime-header {
+  border-bottom: 1px solid #000000
+}
+
+.PositionSyand-header {
+  border-bottom: 1px solid #000000
+}
