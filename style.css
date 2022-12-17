@@ -15,15 +15,14 @@ body {
 .intro-header {
 }
 
-.right {
-  margin-left: 100%
 
-}
 
-.JobUSbank-header {
+.positionUSbank {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
+
+
 
 .ProExp-header {
   text-align: center;
@@ -31,31 +30,31 @@ body {
   border-bottom: 1px solid #000000;
 }
 
-.JobBSB-header {
+.positionBSB {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
 
 
-.JobPrime-header {
+.positionPrime {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
 
 
-.JobSyand-header {
+.positionSyand {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
 
 
-.JobMSI-header {
+.positionMSI {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
 
 
-.JobCAV-header {
+.positionCAV {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
@@ -67,23 +66,23 @@ body {
   border-bottom: 1px solid #000000;
 }
 
-.CivEd-header {
+.MNcivEd {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
 
 
-.SECplus-header {
+.SECplusCivEd {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
 
-.MilEd-header {
+.InfoSysMilEd {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
 
-.SCCCC-header {
+.SccccMilEd {
   border-bottom: 1px solid #000000;
   font-weight: bold;
 }
