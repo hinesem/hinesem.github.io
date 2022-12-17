@@ -21,6 +21,7 @@ body {
 
 .JobUSbank-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 .ProExp-header {
@@ -31,26 +32,31 @@ body {
 
 .JobBSB-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 
 .JobPrime-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 
 .JobSyand-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 
 .JobMSI-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 
 .JobCAV-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 
@@ -62,19 +68,23 @@ body {
 
 .CivEd-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 
 .SECplus-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 .MilEd-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 .SCCCC-header {
   border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 
