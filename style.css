@@ -16,8 +16,10 @@ body {
 
 .right {
   margin-left: 100%
+
 }
-.PositionUSbank-header {
+
+.JobUSbank-header {
   border-bottom: 1px solid #000000;
 }
 
@@ -27,27 +29,27 @@ body {
   border-bottom: 1px solid #000000;
 }
 
-.PositionBSB-header {
+.JobBSB-header {
   border-bottom: 1px solid #000000;
 }
 
 
-.PositionPrime-header {
+.JobPrime-header {
   border-bottom: 1px solid #000000;
 }
 
 
-.PositionSyand-header {
+.JobSyand-header {
   border-bottom: 1px solid #000000;
 }
 
 
-.PositionMSI-header {
+.JobMSI-header {
   border-bottom: 1px solid #000000;
 }
 
 
-.PositionCAV-header {
+.JobCAV-header {
   border-bottom: 1px solid #000000;
 }
 
@@ -67,7 +69,7 @@ body {
   border-bottom: 1px solid #000000;
 }
 
-.InfoSys-header {
+.MilEd-header {
   border-bottom: 1px solid #000000;
 }
 
