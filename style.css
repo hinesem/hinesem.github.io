@@ -14,11 +14,8 @@ body {
 .intro-header {
 }
 
-.splitUSbank {
-  display:block;margin:10px
-}
-.splitUSbank span{
-  display: block: float: right; width: 50%; margin-left: 10px;
+.right {
+  margin-left: 100%
 }
 .PositionUSbank-header {
   border-bottom: 1px solid #000000;
