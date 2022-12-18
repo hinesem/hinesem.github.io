@@ -3,7 +3,13 @@ body {
   color: #000000;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
+  background-image: url('https://paper-media.com/media/image/product/3537/lg/mbc-8340_motif-stationery-antique-history-vintage~2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
+
+
 
 .name-header {
   text-align: center; 
@@ -15,7 +21,11 @@ body {
 .intro-header {
 }
 
-
+.columns{
+    float: left;
+    position: relative;
+    margin-right: 20px;
+}
 
 .positionUSbank {
   border-bottom: 1px solid #000000;
@@ -28,6 +38,11 @@ body {
   text-align: center;
   border-top: 1px solid #000000;
   border-bottom: 1px solid #000000;
+}
+
+.positionUSbank {
+  border-bottom: 1px solid #000000;
+  font-weight: bold;
 }
 
 .positionBSB {
